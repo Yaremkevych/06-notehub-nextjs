@@ -13,8 +13,11 @@ export default function Footer() {
                     <p>Developer: Yaremkevych</p>
                     <p>
                         Contact us:
-                        <Link href="jaremkiewicz1992@gmail.com" target="_blank">
-                            email
+                        <Link
+                            href="mailto:jaremkiewicz1992@gmail.com"
+                            target="_blank"
+                        >
+                            &nbsp;jaremkiewicz1992@gmail.com
                         </Link>
                     </p>
                 </div>
